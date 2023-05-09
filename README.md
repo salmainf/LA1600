@@ -16,16 +16,24 @@
 
 ### 1.1 Ihr Projekt
 
-Wir erstellen eine website in der Programmiersprache CSS.
+Wir erstellen eine kleine Netzseite in der Programmiersprache CSS über Jeff Bezos.
 
-✍️ Erklären Sie genauer in 50 bis 100 Wörtern, was genau Sie in diesem Projekt erreichen möchten, und was Sie dabei zu lernen hoffen.
+Wir möchten mit unserer Netzseite über eine der einflussreichsten Personen der heutigen Zeit informieren. Wir stellen eine kleine Netzseite dar, welche die wichtigsten Informationen und Fakten über ihn enthält. Dazu wollen wir ein übersichtliches gutes Design verwenden, was ansprechend sein soll. Man soll nach dem Besuch der Netzseite vieles mehr über Jeff Bezos wissen, als man es zuvor hat. Dafür sorgen wir auch mit kleinen aber wichtigen Details.
 
 ### 1.2 User Stories
 
 | US-№ | Verbindlichkeit | Typ  | Beschreibung                       |
 | ---- | --------------- | ---- | ---------------------------------- |
-| 1    |                 |      | Als ein 🤷‍♂️ möchte ich 🤷‍♂️, damit 🤷‍♂️ |
-| ...  |                 |      |                                    |
+| 1    |   Muss              |  Funktional    | Als ein User möchte ich eine übersichtliche Netzseite vorfinden |
+| 2  |       Muss          |   Funktional   |        Als ein User möchte ich Bilder der Person sehen können                            |
+| 3   |   Muss              |  Funktional    | Als ein User möchte ich aus verschiedenen Texten mich über die Person informieren können |
+| 4   |   Kann              |  Funktional    | Als ein User möchte ich auf die sozialen Medien der Perosn zugreiffen können |
+| 5   |   Kann              |  Funktional    | Als ein User möchte ich auf weitere Links zugreiffen können, wo man relevante Informationen zu der Person einsehen kann. |
+| 6    |   Muss              |  Funktional    | Als ein Programmierer möchte ich eine meine verschiedenen Texte in einer sinvollen Reihenfolge aufschalten. |
+| 7   |   Muss              |  Funktional    | Als ein Programmierer möchte ich mehrere Texte zu der Person verfassen, indem über diese Informiert wird. |
+| 8   |   Muss              |  Funktional    | Als ein Programmierer möchte ich aussagekräftige Bilder einfügen |
+| 9   |   Muss              |  Funktional    | Als ein Programmierer möchte ich Überschriften, Texte, evtl. Inhaltsverzeichnis ansprechend gestalten. |
+| 10    |   Muss              |  Funktional    | Als ein Programmierer möchte ich Quellen meiner Informationen aufzeigen können.|
 
 ✍️ Jede User Story hat eine ganzzahlige Nummer (1, 2, 3 etc.), eine Verbindlichkeit (Muss oder Kann?), und einen Typ (Funktional, Qualität, Rand). Die User Story selber hat folgende Form: *Als ein 🤷‍♂️ möchte ich 🤷‍♂️, damit 🤷‍♂️*.
 
