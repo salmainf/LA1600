@@ -2,13 +2,11 @@
 
 # Projekt-Dokumentation
 
-☝️ Alle Text-Stellen, welche mit einem ✍️ beginnen, können Sie löschen, sobald Sie die entsprechende Stellen ausgefüllt haben.
-
-✍️ Apricot, Eser,Tanner,Pinto
+ Apricot, Eser,Tanner,Pinto
 
 | Datum | Version | Zusammenfassung                                              |
 | ----- | ------- | ------------------------------------------------------------ |
-| 9.05  | 0.0.1   | ✍️ Jedes Mal, wenn Sie an dem Projekt arbeiten, fügen Sie hier eine neue Zeile ein und beschreiben in *einem* Satz, was Sie erreicht haben. |
+| 9.05  | 0.0.1   | Wir haben den Prototyp unserer Netzseite erstellt und die Projektdokumentation aufgeschaltet.|
 |       | ...     |                                                              |
 |       | 1.0.0   |                                                              |
 
@@ -35,7 +33,6 @@ Wir möchten mit unserer Netzseite über eine der einflussreichsten Personen der
 | 9   |   Muss              |  Funktional    | Als ein Programmierer möchte ich Überschriften, Texte, evtl. Inhaltsverzeichnis ansprechend gestalten. |
 | 10    |   Muss              |  Funktional    | Als ein Programmierer möchte ich Quellen meiner Informationen aufzeigen können.|
 
-✍️ Jede User Story hat eine ganzzahlige Nummer (1, 2, 3 etc.), eine Verbindlichkeit (Muss oder Kann?), und einen Typ (Funktional, Qualität, Rand). Die User Story selber hat folgende Form: *Als ein 🤷‍♂️ möchte ich 🤷‍♂️, damit 🤷‍♂️*.
 
 ### 1.3 Testfälle
 
