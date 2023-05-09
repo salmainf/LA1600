@@ -53,7 +53,8 @@ Wir möchten mit unserer Netzseite über eine der einflussreichsten Personen der
 
 ### 1.4 Diagramme
 
-✍️Fügen Sie hier ein Use Case-Diagramm mit mindestens 3 Anwendungsfällen ein; und eine Skizze davon, wie Ihre Netzseite aussehen sollte.
+![grafik](https://user-images.githubusercontent.com/110892351/237049289-738605a1-fde2-41dc-8ccf-25173910e588.png)
+
 
 ## 2 Planen
 
