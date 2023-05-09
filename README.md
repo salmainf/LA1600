@@ -25,7 +25,7 @@ Wir möchten mit unserer Netzseite über eine der einflussreichsten Personen der
 | 1    |   Muss              |  Funktional    | Als ein User möchte ich eine übersichtliche Netzseite vorfinden |
 | 2  |       Muss          |   Funktional   |        Als ein User möchte ich Bilder der Person sehen können                            |
 | 3   |   Muss              |  Funktional    | Als ein User möchte ich aus verschiedenen Texten mich über die Person informieren können |
-| 4   |   Kann              |  Funktional    | Als ein User möchte ich auf die sozialen Medien der Perosn zugreiffen können |
+| 4   |   Kann              |  Funktional    | Als ein User möchte ich auf die sozialen Medien der Person zugreiffen können |
 | 5   |   Kann              |  Funktional    | Als ein User möchte ich auf weitere Links zugreiffen können, wo man relevante Informationen zu der Person einsehen kann. |
 | 6    |   Muss              |  Funktional    | Als ein Programmierer möchte ich eine meine verschiedenen Texte in einer sinvollen Reihenfolge aufschalten. |
 | 7   |   Muss              |  Funktional    | Als ein Programmierer möchte ich mehrere Texte zu der Person verfassen, indem über diese Informiert wird. |
@@ -38,10 +38,18 @@ Wir möchten mit unserer Netzseite über eine der einflussreichsten Personen der
 
 | TC-№ | Ausgangslage | Eingabe | Erwartete Ausgabe |
 | ---- | ------------ | ------- | ----------------- |
-| 1.1  |              |         |                   |
-| ...  |              |         |                   |
+| 1.1  |   Netzseite geöffnet           |   Öffnen der Netzseite      |      Übersichtliche Anordnung             |
+| 2.1  |      Netzseite geöffnet        |   Scrollen auf der Netzseite      |       Anzeigen von Bildern            |
+| 3.1  |      Netzseite geöffnet        |   Scrollen auf der Netzseite      |       Anzeigen von verschiedenen Texten            |
+| 4.1  |      Netzseite geöffnet        |   Drücken auf die Sozialen Medien Icons     |       Weiterleitung zu den Plattformen der Sozialen Medien            |
+| 5.1  |      Netzseite geöffnet        |   Drücken auf die angefügten Links      |       Weiterleitung zu verlinkten Netzseiten            |
+| 7.1  |      Netzseite erstellt        |   Texte in Reihenfolge anordnen      |       Anzeigen von logischer Reihenfolge der Texte            |
+| 6.1  |      Netzseite erstellt        |     Texte anhand der gesammelten Informationen verfassen    |       Anzeigen von geschriebenen Texten            |
+| 8.1  |      Netzseite erstellt        |      Aufschalten von herausgesuchten Bildern   |       Anzeigen von Bildern auf Netzseite            |
+| 9.1  |      Netzseite erstellt       |   Formatieren von Schriften, Formaten     |       Ansprechende Darstellung der Design-Formate            |
+| 10.1  |      Netzseite erstellt, vollständig       |   Angeben der Quellen mithilfe von Weblinks      |       Anzeigen der Quellen            |
 
-✍️ Die Nummer hat das Format `N.m`, wobei `N` die Nummer der User Story ist, die der Testfall abdeckt, und `m` von `1` an nach oben gezählt. Beispiel: Der dritte Testfall, der die zweite User Story abdeckt, hat also die Nummer `2.3`.
+
 
 ### 1.4 Diagramme
 
