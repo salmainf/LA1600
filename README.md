@@ -32,6 +32,7 @@ Wir möchten mit unserer Netzseite über eine der einflussreichsten Personen der
 | 8   |   Muss              |  Funktional    | Als ein Programmierer möchte ich aussagekräftige Bilder einfügen |
 | 9   |   Muss              |  Funktional    | Als ein Programmierer möchte ich Überschriften, Texte, evtl. Inhaltsverzeichnis ansprechend gestalten. |
 | 10    |   Muss              |  Funktional    | Als ein Programmierer möchte ich Quellen meiner Informationen aufzeigen können.|
+| 11   |   Muss              |  Funktional    | Als ein Programmierer möchte ich einen animierten Hintergund und gute Formate einbringen|
 
 
 ### 1.3 Testfälle
@@ -48,6 +49,7 @@ Wir möchten mit unserer Netzseite über eine der einflussreichsten Personen der
 | 8.1  |      Netzseite erstellt        |      Aufschalten von herausgesuchten Bildern   |       Anzeigen von Bildern auf Netzseite            |
 | 9.1  |      Netzseite erstellt       |   Formatieren von Schriften, Formaten     |       Ansprechende Darstellung der Design-Formate            |
 | 10.1  |      Netzseite erstellt, vollständig       |   Angeben der Quellen mithilfe von Weblinks      |       Anzeigen der Quellen            |
+| 11.1  |      Netzseite  erstellt    |   Implementieren des Codes mit einem animierten Hintergrund GIF     |       Anzeigen des bewegten Hintergrunds          |
 
 
 
@@ -60,14 +62,20 @@ Wir möchten mit unserer Netzseite über eine der einflussreichsten Personen der
 
 | AP-№ | Frist | Zuständig | Beschreibung | geplante Zeit |
 | ---- | ----- | --------- | ------------ | ------------- |
-| 1.A  |       |           |              |               |
-| ...  |       |           |              |               |
+| 1.A  |   9.5 /16.5   |           |     Erstellen des animierten Hintergrundes         |      90min         |
+| 2.A  |    9.5 / 16.5  |           |    Erstellen der Startseite          |       120min        |
+|  3.A |       |           |      Erstellen der Überschriften, Formate        |    45min           |
+| 4.A  |       |           |        Generieren der Texte, Raussuchen der Bilder     |   45min            |
+|  5.A |       |           |          Einfügen der Bilder/Texte    |          45min     |
+|  6.A |       |           |          Erstellen der Infoboxen/ Aufklappbare Texte    |        90min       |
+|   7.A|       |           |         Verlinken der Sozialen Medien     |        60min       |
+|  8.A |       |           |         Verlinken der Quellen     |        45min       |
+|  9.A |       |           |          Formatieren des Designs der ganzen Website    |      120min         |
 
-Total: 
 
-✍️ Die Nummer hat das Format `N.m`, wobei `N` die Nummer der User Story ist, auf die sich das Arbeitspaket bezieht, und `m` von `A` an nach oben buchstabiert. Beispiel: Das dritte Arbeitspaket, das die zweite User Story betrifft, hat also die Nummer `2.C`.
 
-✍️ Ein Arbeitspaket sollte etwa 45' für eine Person in Anspruch nehmen. Die totale Anzahl Arbeitspakete sollte etwa Folgendem entsprechen: `Anzahl R-Sitzungen` ╳ `Anzahl Gruppenmitglieder` ╳ `4`. Wenn Sie also zu dritt an einem Projekt arbeiten, für welches zwei R-Sitzungen geplant sind, sollten Sie auf `2` ╳ `3` ╳`4` = `24` Arbeitspakete kommen. Sollten Sie merken, dass Sie hier nicht genügend Arbeitspakte haben, denken Sie sich weitere "Kann"-User Stories für Kapitel 1.2 aus.
+Total: 11h
+
 
 ## 3 Entscheiden
 
