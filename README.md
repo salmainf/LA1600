@@ -64,15 +64,15 @@ Wir möchten mit unserer Netzseite über eine der einflussreichsten Personen der
 
 | AP-№ | Frist | Zuständig | Beschreibung | geplante Zeit |
 | ---- | ----- | --------- | ------------ | ------------- |
-| 1.A  |   9.5 /16.5   |           |     Erstellen des animierten Hintergrundes         |      90min         |
-| 2.A  |    9.5 / 16.5  |           |    Erstellen der Startseite          |       120min        |
-|  3.A |       |           |      Erstellen der Überschriften, Formate        |    45min           |
-| 4.A  |       |           |        Generieren der Texte, Raussuchen der Bilder     |   45min            |
-|  5.A |       |           |          Einfügen der Bilder/Texte    |          45min     |
-|  6.A |       |           |          Erstellen der Infoboxen/ Aufklappbare Texte    |        90min       |
-|   7.A|       |           |         Verlinken der Sozialen Medien     |        60min       |
-|  8.A |       |           |         Verlinken der Quellen     |        45min       |
-|  9.A |       |           |          Formatieren des Designs der ganzen Website    |      120min         |
+| 1.A  |   9.5.23   |           |     Erstellen des animierten Hintergrundes         |      90min         |
+| 2.A  |    9.5.23  |           |    Erstellen der Startseite          |       120min        |
+|  3.A |   16.5.23    |           |      Erstellen der Überschriften, Formate        |    45min           |
+| 4.A  |   24.5.23    |           |        Generieren der Texte, Raussuchen der Bilder     |   45min            |
+|  5.A |   24.5.23    |           |          Einfügen der Bilder/Texte    |          45min     |
+|  6.A |    24.5.23   |           |          Erstellen der Infoboxen/ Aufklappbare Texte    |        90min       |
+|   7.A|    31.5.23   |           |         Verlinken der Sozialen Medien     |        60min       |
+|  8.A |    31.5.23   |           |         Verlinken der Quellen     |        45min       |
+|  9.A |  16.5.23     |           |          Formatieren des Designs der ganzen Website    |      120min         |
 
 
 
