@@ -6,9 +6,9 @@
 
 | Datum | Version | Zusammenfassung                                              |
 | ----- | ------- | ------------------------------------------------------------ |
-| 9.05  | 0.0.1   | Wir haben den Prototyp unserer Netzseite erstellt und die Projektdokumentation aufgeschaltet.|
-|       | ...     |                                                              |
-|       | 1.0.0   |                                                              |
+| 9.5.23  | 0.0.1   | Wir haben den Prototyp unserer Netzseite erstellt und die Projektdokumentation aufgeschaltet.|
+| 16.5.23      | 0.0.2     |  Realisieren der ersten Arbeitspackete, grundlegende Formatierung/Design der Website                                                            |
+|       |   |                                                              |
 
 ## 1 Informieren
 
