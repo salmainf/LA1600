@@ -16,7 +16,7 @@
 
 Wir erstellen eine kleine Netzseite in der Programmiersprache CSS über Jeff Bezos.
 
-Wir möchten mit unserer Netzseite über eine der einflussreichsten Personen der heutigen Zeit informieren, Jeff Bezos. Wir stellen eine kleine Netzseite dar, welche die wichtigsten Informationen und Fakten über ihn enthält. Dazu wollen wir ein übersichtliches gutes Design verwenden, was ansprechend sein soll. Die Informationen stellen wir mithilfe von kleinen Texten, BIldern und weiteren Weblinks dar. Man soll nach dem Besuch der Netzseite vieles mehr über Jeff Bezos wissen, als man es zuvor hat. Dafür sorgen wir auch mit kleinen aber wichtigen Details.
+Wir möchten mit unserer Netzseite über eine der einflussreichsten Personen der heutigen Zeit informieren, Jeff Bezos. Wir stellen eine kleine Netzseite dar, welche die wichtigsten Informationen und Fakten über ihn enthält, ebenso wie Kritik. Dazu wollen wir ein übersichtliches gutes Design verwenden, was ansprechend sein soll, dies können wir auch gut mit den Farben beeinflussen. Die Informationen stellen wir mithilfe von kleinen Texten, Bildern und weiteren Weblinks dar. Man soll nach dem Besuch der Netzseite vieles mehr über Jeff Bezos wissen, als man es zuvor hat. Dafür sorgen wir auch mit kleinen aber wichtigen Details. Das Ziel ist eine gut gestaltete Netzseite, die von aussen wie auch Inhaltlich ansprechend ist zu realisieren.
 
 ### 1.2 User Stories
 
