@@ -33,6 +33,7 @@ Wir möchten mit unserer Netzseite über eine der einflussreichsten Personen der
 | 9   |   Muss              |  Funktional    | Als ein Programmierer möchte ich Überschriften, Texte, evtl. Inhaltsverzeichnis ansprechend gestalten. |
 | 10    |   Muss              |  Funktional    | Als ein Programmierer möchte ich Quellen meiner Informationen aufzeigen können.|
 | 11   |   Muss              |  Funktional    | Als ein Programmierer möchte ich einen animierten Hintergund und gute Formate einbringen|
+|12| Muss | Funktional | Als ein Programmierer möchte ich meine website mit einer abgestimten Farbpalette ausschmücken |
 
 
 ### 1.3 Testfälle
@@ -50,6 +51,7 @@ Wir möchten mit unserer Netzseite über eine der einflussreichsten Personen der
 | 9.1  |      Netzseite erstellt       |   Formatieren von Schriften, Formaten     |       Ansprechende Darstellung der Design-Formate            |
 | 10.1  |      Netzseite erstellt, vollständig       |   Angeben der Quellen mithilfe von Weblinks      |       Anzeigen der Quellen            |
 | 11.1  |      Netzseite  erstellt    |   Implementieren des Codes mit einem animierten Hintergrund GIF     |       Anzeigen des bewegten Hintergrunds          |
+| 12.1  |      Netzseite  erstellt    |   Zusammenstellen einer Farbpalette für Hintergrund, Akzent und allgemeine Farbenv der Netzseite    |       Anzeigen der Netzseite in den gewählten Farben          |
 
 
 
