@@ -66,13 +66,16 @@ Wir möchten mit unserer Netzseite über eine der einflussreichsten Personen der
 | ---- | ----- | --------- | ------------ | ------------- |
 | 1.A  |   9.5.23   |           |     Erstellen des animierten Hintergrundes         |      90min         |
 | 2.A  |    9.5.23  |           |    Erstellen der Startseite          |       120min        |
-|  3.A |   16.5.23    |           |      Erstellen der Überschriften, Formate        |    45min           |
+|  3.A |   9.5.23    |           |      Erstellen der Überschriften, Formate        |    45min           |
 | 4.A  |   24.5.23    |           |        Generieren der Texte, Raussuchen der Bilder     |   45min            |
 |  5.A |   24.5.23    |           |          Einfügen der Bilder/Texte    |          45min     |
 |  6.A |    24.5.23   |           |          Erstellen der Infoboxen/ Aufklappbare Texte    |        90min       |
 |   7.A|    31.5.23   |           |         Verlinken der Sozialen Medien     |        60min       |
 |  8.A |    31.5.23   |           |         Verlinken der Quellen     |        45min       |
 |  9.A |  16.5.23     |           |          Formatieren des Designs der ganzen Website    |      120min         |
+|  10.A |  16.5.23     |           |         Auswählen der Farbpalette und gestalten der Website mit dieser Palette    |      90min         |
+|  11.A |  16.5.23     |           |          Auswählen und verknüpfen der Schriftarrten der Netzseite    |      60min         |
+
 
 
 
