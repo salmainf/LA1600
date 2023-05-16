@@ -72,6 +72,7 @@ Wir möchten mit unserer Netzseite über eine der einflussreichsten Personen der
 |  6.A |    24.5.23   |           |          Erstellen der Infoboxen/ Aufklappbare Texte    |        90min       |
 |   7.A|    31.5.23   |           |         Verlinken der Sozialen Medien     |        60min       |
 |  8.A |    31.5.23   |           |         Verlinken der Quellen     |        45min       |
+|  8.B |    31.5.23   |           |         Verlinken weiterer wichtiger Referenzen     |        45min       |
 |  9.A |  16.5.23     |           |          Formatieren des Designs der ganzen Website    |      120min         |
 |  10.A |  16.5.23     |           |         Auswählen der Farbpalette und gestalten der Website mit dieser Palette    |      90min         |
 |  11.A |  16.5.23     |           |          Auswählen und verknüpfen der Schriftarrten der Netzseite    |      60min         |
@@ -79,7 +80,7 @@ Wir möchten mit unserer Netzseite über eine der einflussreichsten Personen der
 
 
 
-Total: 11h
+Total: 15h
 
 
 ## 3 Entscheiden
