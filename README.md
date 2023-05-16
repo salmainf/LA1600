@@ -84,7 +84,7 @@ Total: 11h
 
 ## 3 Entscheiden
 
-✍️ Dokumentieren Sie hier Ihre Entscheidungen und Annahmen, die Sie im Bezug auf Ihre User Stories und die Implementierung getroffen haben.
+Wir haben uns dazu entschieden, die Arbeit aufzuteilen. Jeder soll mal etwas versucht und gemacht haben und etwas zum Projekt beitragen. Wir haben uns  auch dazu entschieden auf der Netzseite ein bisschen Kritik von Jeff Bezos aufzunehmen. Wir haben eine berühmte Person als Thema für unsere Netzseite gewählt, da es viel Möglichekiten bietet und man wählen kann welche Art von Infos man darauf zeigt.
 
 ## 4 Realisieren
 
@@ -93,7 +93,7 @@ Total: 11h
 | 1.A  |       |           |               |                   |
 | ...  |       |           |               |                   |
 
-✍️ Tragen Sie jedes Mal, wenn Sie ein Arbeitspaket abschließen, hier ein, wie lang Sie effektiv dafür hatten.
+
 
 ## 5 Kontrollieren
 
