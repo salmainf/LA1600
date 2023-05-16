@@ -2,7 +2,7 @@
 
 # Projekt-Dokumentation
 
- Apricot, Eser,Tanner,Pinto
+ Apricot: Eser,Tanner,Pinto
 
 | Datum | Version | Zusammenfassung                                              |
 | ----- | ------- | ------------------------------------------------------------ |
