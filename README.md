@@ -91,8 +91,11 @@ Wir haben uns dazu entschieden, die Arbeit aufzuteilen. Jeder soll mal etwas ver
 
 | AP-№ | Datum | Zuständig | geplante Zeit | tatsächliche Zeit |
 | ---- | ----- | --------- | ------------- | ----------------- |
-| 1.A  |       |           |               |                   |
-| ...  |       |           |               |                   |
+| 1.A  |  9.5.23/16.5.23     |   Pinto        |     90min          |       120min            |
+| 2.A  |   9.5.23/16.5.23  |    Pinto       |     120min          |        180min           |
+| 3.A  |   16.5.23  |    Pinto/Tanner       |     45min          |        60min           |
+| 4.A  |   16.5.23  |    Eser/Tanner       |     45min          |        45min           |
+
 
 
 
