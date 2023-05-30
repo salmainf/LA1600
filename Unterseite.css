@@ -67,3 +67,23 @@ body, html {
     padding: 20px;
     text-align: center;
   }
+
+@media (max-width: 600px) {
+    .content {
+      flex-direction: column;
+    }
+    
+    .image {
+      margin-right: 0;
+      margin-bottom: 20px;
+    }
+
+    main {
+      flex: 1;
+      padding: 20px;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+    }
+
+  }
