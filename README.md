@@ -61,6 +61,8 @@ Wir möchten mit unserer Netzseite über eine der einflussreichsten Personen der
 ### 1.4 Diagramme
 
 ![grafik](https://user-images.githubusercontent.com/110892351/237049289-738605a1-fde2-41dc-8ccf-25173910e588.png)
+![grafik](https://github.com/salmainf/LA1600/assets/110892351/fe4b0fe8-0ca8-430f-81b4-f0d63d753319)
+
 
 
 ## 2 Planen
