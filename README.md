@@ -27,13 +27,15 @@ Wir möchten mit unserer Netzseite über eine der einflussreichsten Personen der
 | 3   |   Muss              |  Funktional    | Als ein User möchte ich aus verschiedenen Texten mich über die Person informieren können |
 | 4   |   Kann              |  Funktional    | Als ein User möchte ich auf die sozialen Medien der Person zugreiffen können |
 | 5   |   Kann              |  Funktional    | Als ein User möchte ich auf weitere Links zugreiffen können, wo man relevante Informationen zu der Person einsehen kann. |
-| 6    |   Muss              |  Funktional    | Als ein Programmierer möchte ich eine meine verschiedenen Texte in einer sinvollen Reihenfolge aufschalten. |
-| 7   |   Muss              |  Funktional    | Als ein Programmierer möchte ich mehrere Texte zu der Person verfassen, indem über diese Informiert wird. |
-| 8   |   Muss              |  Funktional    | Als ein Programmierer möchte ich aussagekräftige Bilder einfügen |
-| 9   |   Muss              |  Funktional    | Als ein Programmierer möchte ich Überschriften, Texte, evtl. Inhaltsverzeichnis ansprechend gestalten. |
-| 10    |   Muss              |  Funktional    | Als ein Programmierer möchte ich Quellen meiner Informationen aufzeigen können.|
-| 11   |   Muss              |  Funktional    | Als ein Programmierer möchte ich einen animierten Hintergund und gute Formate einbringen|
-|12| Muss | Funktional | Als ein Programmierer möchte ich meine website mit einer abgestimten Farbpalette ausschmücken |
+| 6    |   Muss              |  Funktional    | Als ein User möchte ich die verschiedenen Texte in einer sinvollen Reihenfolge angezeigt bekommen. |
+| 7   |   Muss              |  Funktional    | Als ein User möchte ich mehrere Texte lesen können zu der Person verfassen, indem über diese Informiert wird. |
+| 8   |   Muss              |  Funktional    | Als ein Journalist möchte ich aussagekräftige Bilder vorfinden |
+| 9   |   Muss              |  Funktional    | Als ein User möchte ich Überschriften, Texte, evtl. Inhaltsverzeichnis ansprechend vorfinden. |
+| 10    |   Muss              |  Funktional    | Als ein Journalist möchte ich die Quellen der Informationen einsehen.|
+| 11    |   Muss              |  Funktional    | Als ein Benutzer möchte ich einen präzisen animierten Hintergrund der Website|
+| 12  |   Muss              |  Funktional    | Als ein Benutzer möchte ich einen animierten Hintergund und gute Formate vorfinden|
+|13| Muss | Funktional | Als ein User möchte ich die Website mit einer abgestimten Farbpalette betrachten können |
+
 
 
 ### 1.3 Testfälle
@@ -50,8 +52,9 @@ Wir möchten mit unserer Netzseite über eine der einflussreichsten Personen der
 | 8.1  |      Netzseite erstellt        |      Aufschalten von herausgesuchten Bildern   |       Anzeigen von Bildern auf Netzseite            |
 | 9.1  |      Netzseite erstellt       |   Formatieren von Schriften, Formaten     |       Ansprechende Darstellung der Design-Formate            |
 | 10.1  |      Netzseite erstellt, vollständig       |   Angeben der Quellen mithilfe von Weblinks      |       Anzeigen der Quellen            |
-| 11.1  |      Netzseite  erstellt    |   Implementieren des Codes mit einem animierten Hintergrund GIF     |       Anzeigen des bewegten Hintergrunds          |
-| 12.1  |      Netzseite  erstellt    |   Zusammenstellen einer Farbpalette für Hintergrund, Akzent und allgemeine Farbenv der Netzseite    |       Anzeigen der Netzseite in den gewählten Farben          |
+| 11.1  |      Netzseite  erstellt    |   Implementieren der einzelnen CSS-Elemente für den animierten Hintergrund    |       Anzeigen des bewegten Hintergrunds          |
+| 12.1  |      Netzseite  erstellt    |   Implementieren der Website-Formate mit einzelnen CSS-Elementen    |       Angepasste Formate, aufeinander abgetstimmt       |
+| 13.1  |      Netzseite  erstellt    |   Zusammenstellen einer Farbpalette für Hintergrund, Akzent und allgemeine Farbenv der Netzseite    |       Anzeigen der Netzseite in den gewählten Farben          |
 
 
 
@@ -64,7 +67,7 @@ Wir möchten mit unserer Netzseite über eine der einflussreichsten Personen der
 
 | AP-№ | Frist | Zuständig | Beschreibung | geplante Zeit |
 | ---- | ----- | --------- | ------------ | ------------- |
-| 1.A  |   9.5.23   |           |     Erstellen des animierten Hintergrundes         |      90min         |
+| 1.A  |   9.5.23   |           |     Erstellen des animierten Hintergrundes mithilfe von CSS-Elementen        |      90min         |
 | 2.A  |    9.5.23  |           |    Erstellen der Startseite          |       120min        |
 |  3.A |   9.5.23    |           |      Erstellen der Überschriften, Formate        |    45min           |
 | 4.A  |   24.5.23    |           |        Generieren der Texte, Raussuchen der Bilder     |   45min            |
