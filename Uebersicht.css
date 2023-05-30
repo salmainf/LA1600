@@ -100,8 +100,8 @@ html, body {
     }
     
     .button {
-      background-color: #555;
-      color: #fff;
+      background-color: none;
+      color: none;
       padding: 5px 10px;
       text-decoration: none;
     }
