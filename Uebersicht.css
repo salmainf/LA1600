@@ -23,7 +23,7 @@ html, body {
   
   .title {
     text-align: center;
-    flex-grow: 1;
+    flex-grow: none;
   }
   
   .buttons {
