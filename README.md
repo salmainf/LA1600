@@ -9,7 +9,8 @@
 | 9.5.23  | 0.0.1   | Wir haben den Prototyp unserer Netzseite erstellt und die Projektdokumentation aufgeschaltet.|
 | 16.5.23      | 0.0.2     |  Realisieren der ersten Arbeitspackete, grundlegende Formatierung/Design der Website                                                            |
 |  23.5.23     | 0.0.3  |   Fertigstellen des ertsen Prototyps der Website, Implementieren der vorgesehen Arbeitspakete     |                           
-|  30.5.23     |  0.0.4 |  Entgegennehmen der Anforderungen für die Website, Anpassen der Projektdokumentation und Realisieren der Anforderungen|                                                            
+|  30.5.23     |  0.0.4 |  Entgegennehmen der Anforderungen für die Website, Anpassen der Projektdokumentation und Realisieren der Anforderungen| 
+|6.6.23|0.0.5|weiterarbeiten an den Arbeitspaketen, Formatieren des Design, Suchen von Informationen|
 
 ## 1 Informieren
 
