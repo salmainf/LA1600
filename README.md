@@ -70,18 +70,19 @@ Wir möchten mit unserer Netzseite über eine der einflussreichsten Personen der
 
 | AP-№ | Frist | Zuständig | Beschreibung | geplante Zeit |
 | ---- | ----- | --------- | ------------ | ------------- |
-| 1.A  |   9.5.23   |           |     Erstellen des animierten Hintergrundes mithilfe von CSS-Elementen        |      90min         |
-| 2.A  |    9.5.23  |           |    Erstellen der Startseite          |       120min        |
-|  3.A |   9.5.23    |           |      Erstellen der Überschriften, Formate        |    45min           |
-| 4.A  |   24.5.23    |           |        Generieren der Texte, Raussuchen der Bilder     |   45min            |
-|  5.A |   24.5.23    |           |          Einfügen der Bilder/Texte    |          45min     |
-|  6.A |    24.5.23   |           |          Erstellen der Infoboxen/ Aufklappbare Texte    |        90min       |
-|   7.A|    31.5.23   |           |         Verlinken der Sozialen Medien     |        60min       |
-|  8.A |    31.5.23   |           |         Verlinken der Quellen     |        45min       |
-|  8.B |    31.5.23   |           |         Verlinken weiterer wichtiger Referenzen     |        45min       |
+| 1.A  |   9.5.23   |  Pinto         |     Erstellen des animierten Hintergrundes mithilfe von CSS-Elementen        |      90min         |
+| 2.A  |    9.5.23  |    Pinto       |    Erstellen der Startseite          |       120min        |
+|  3.A |   9.5.23    |  Pinto         |      Erstellen der Überschriften, Formate        |    45min           |
+| 4.A  |   24.5.23    |   Eser        |        Generieren der Texte, Raussuchen der Bilder     |   45min            |
+|  5.A |   24.5.23    |   Eser        |          Einfügen der Bilder/Texte    |          45min     |
+|  6.A |    24.5.23   |   Eser        |          Erstellen der Infoboxen/ Aufklappbare Texte    |        90min       |
+|   7.A|    31.5.23   |   Tanner        |         Verlinken der Sozialen Medien     |        60min       |
+|  8.A |    31.5.23   |    Tanner       |         Verlinken der Quellen     |        45min       |
+|  8.B |    31.5.23   |   Tanner        |         Verlinken weiterer wichtiger Referenzen     |        45min       |
 |  9.A |  16.5.23     |           |          Formatieren des Designs der ganzen Website    |      120min         |
-|  10.A |  16.5.23     |           |         Auswählen der Farbpalette und gestalten der Website mit dieser Palette    |      90min         |
-|  11.A |  16.5.23     |           |          Auswählen und verknüpfen der Schriftarrten der Netzseite    |      60min         |
+|  10.A |  16.5.23     |  Pinto         |         Auswählen der Farbpalette und gestalten der Website mit dieser Palette    |      90min         |
+|  11.A |  16.5.23     |           |          Auswählen und verknüpfen der Schriftarten der Netzseite    |      60min         |
+|12.A| 6.6.23|Tanner|Verknüpfen eines Formulares via formspree.io| 60min|
 
 
 
@@ -91,7 +92,7 @@ Total: 15h
 
 ## 3 Entscheiden
 
-Wir haben uns dazu entschieden, die Arbeit aufzuteilen. Jeder soll mal etwas versucht und gemacht haben und etwas zum Projekt beitragen. Wir haben uns  auch dazu entschieden auf der Netzseite ein bisschen Kritik von Jeff Bezos aufzunehmen. Wir haben eine berühmte Person als Thema für unsere Netzseite gewählt, da es viel Möglichekiten bietet und man wählen kann welche Art von Infos man darauf zeigt.
+Wir haben uns dazu entschieden, die Arbeit aufzuteilen. Jeder soll mal etwas versucht und gemacht haben und etwas zum Projekt beitragen. Dazu haben wir auch darauf geachtet, dass wir es so aufteilen, dass niemand zu stark von der Arbeit des Anderen abhängig ist und man nicht stecken bleibt. Wir haben uns  auch dazu entschieden auf der Netzseite ein bisschen Kritik von Jeff Bezos aufzunehmen. Wir haben eine berühmte Person als Thema für unsere Netzseite gewählt, da es viel Möglichkiten bietet und man wählen kann welche Art von Infos man darauf zeigt.
 
 ## 4 Realisieren
 
