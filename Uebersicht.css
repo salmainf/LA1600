@@ -29,13 +29,15 @@ html, body {
   .buttons {
     display: flex;
     gap: 10px;
+      backgroundcolor: cadetblue;
   }
   
   .button {
-    background-color: none;
+    background-color: cadetblue;
     color: #fff;
     padding: 5px 10px;
     text-decoration: none;
+      display: block;
   }
   
   .content {
@@ -100,7 +102,7 @@ html, body {
     }
     
     .button {
-      background-color: none;
+      background-color: cadetblue;
       color: none;
       padding: 5px 10px;
       text-decoration: none;
