@@ -10,7 +10,10 @@
 | 16.5.23      | 0.0.2     |  Realisieren der ersten Arbeitspackete, grundlegende Formatierung/Design der Website                                                            |
 |  23.5.23     | 0.0.3  |   Fertigstellen des ertsen Prototyps der Website, Implementieren der vorgesehen Arbeitspakete     |                           
 |  30.5.23     |  0.0.4 |  Entgegennehmen der Anforderungen für die Website, Anpassen der Projektdokumentation und Realisieren der Anforderungen| 
-|6.6.23|0.0.5|weiterarbeiten an den Arbeitspaketen, Formatieren des Design, Suchen von Informationen|
+|6.6.23|0.0.5|Weiterarbeiten an den Arbeitspaketen, Formatieren des Design, Suchen von Informationen, Auswahl des Präsentationsthemas.|
+|17.6.23|0.0.6|Letzte Verbesserungsarbeiten an der Website, erstellen der Präsentation|
+
+
 
 ## 1 Informieren
 
@@ -103,6 +106,16 @@ Wir haben uns dazu entschieden, die Arbeit aufzuteilen. Jeder soll mal etwas ver
 | 2.A  |   9.5.23/16.5.23  |    Pinto       |     120min          |        180min           |
 | 3.A  |   16.5.23  |    Pinto/Tanner       |     45min          |        60min           |
 | 4.A  |   16.5.23  |    Eser/Tanner       |     45min          |        45min           |
+| 5.A  |  23.5.23  |      Eser     |     45min          |        45min           |
+| 6.A  |   23.5.23  |    Eser      |     45min          |        45min           |
+| 7.A  |   23.5.23  |    Tanner       |     45min          |        45min           |
+| 8.A  |   30.5.23  |    Tanner       |     45min          |        45min           |
+| 9.A  |   30.5.23  |    Pinto       |     45min          |        45min           |
+| 10.A  |   30.5.23  |    Pinto       |     45min          |        45min           |
+| 11.A  |   6.6.23  |    Pinto      |     45min          |        45min           |
+| 12.A  |   6.6.23  |    Tanner       |     45min          |        45min           |
+
+
 
 
 
