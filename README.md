@@ -124,8 +124,19 @@ Wir haben uns dazu entschieden, die Arbeit aufzuteilen. Jeder soll mal etwas ver
 
 | TC-№ | Datum | Resultat | Tester |
 | ---- | ----- | -------- | ------ |
-| 1.1  |       |          |        |
-| ...  |       |          |        |
+| 1.1  |  13.6.23     |          | Eser       |
+| 2.1  | 13.6.23       |          |    Pinto    |
+| 3.1  | 13.6.23       |          |      Pinto  |
+| 4.1  |     13.6.23   |          |       Eser |
+| 5.1  |  13.6.23      |          |   Eser     |
+| 6.1  |  17.6.23      |          |   Tanner     |
+| 7.1  | 17.6.23       |          |    Tanner    |
+| 8.1  | 17.6.23       |          | Tanner       |
+| 9.1  |17.6.23        |          |       Tanner |
+| 10.1  | 17.6.23       |          |       Tanner |
+| 11.1  | 17.6.23       |          |       Tanner |
+| 12.1  | 17.6.23       |          |       Tanner |
+| 13.1  | 17.6.23       |          |       Tanner |
 
 ✍️ Vergessen Sie nicht, ein Fazit hinzuzufügen, welches das Test-Ergebnis einordnet.
 
