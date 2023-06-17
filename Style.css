@@ -16,11 +16,22 @@
    font-family: 'Rozha One', serif;
 }
 body {
+    <div class="bar">
+    <button class="button">Button.ü</button>
+  </div>
     background-image: url('https://i.gifer.com/FU8l.gif');
     background-repeat: no-repeat;
     background-size: cover;
 }
 
+ .bar {
+      background-color: #f1f1f1;
+      height: 50px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+    }
+    
  .button {
       position: fixed;
       bottom: 20px;
@@ -33,6 +44,7 @@ body {
       border-radius: 4px;
       cursor: pointer;
  }
+
  
     
 @media screen and (max-width: 600px) {
