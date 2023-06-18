@@ -28,13 +28,14 @@ body {
 
 .button {
   padding: 10px 20px;
+    display: inline-block;
   background-color: beige;
   color: white;
   border: none;
   border-radius: 4px;
   cursor: pointer;
  position: fixed; 
-    bottom: 50;
+    bottom: 50px;
  
 }
 
