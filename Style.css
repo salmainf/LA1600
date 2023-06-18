@@ -31,7 +31,7 @@ body {
     display: inline-block;
   background-color: beige;
   color: black;
-  border-color: black;
+  border: 3px;
   border-radius: 4px;
   cursor: pointer;
 position: relative;
