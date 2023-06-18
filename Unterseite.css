@@ -28,6 +28,7 @@ body, html {
   .buttons {
     display: flex;
     gap: 10px;
+    background-color: beige;
       color: black;
   }
 
