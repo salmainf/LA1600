@@ -6,6 +6,7 @@ body, html {
   body {
     display: flex;
     flex-direction: column;
+       font-family: 'Rozha One', serif;
   }
   
   header {
@@ -15,11 +16,13 @@ body, html {
     display: flex;
     justify-content: space-between;
     align-items: center;
+       font-family: 'Rozha One', serif;
   }
   
   .title {
     text-align: center;
     flex-grow: 1;
+       font-family: 'Rozha One', serif;
   }
   
   .buttons {
@@ -41,6 +44,7 @@ body, html {
     display: flex;
     justify-content: left;
     align-items: center;
+       font-family: 'Rozha One', serif;
   }
   
 .image {
@@ -60,6 +64,7 @@ body, html {
   
   .text {
     flex: 1;
+       font-family: 'Rozha One', serif;
   }
   
   footer {
@@ -68,6 +73,7 @@ body, html {
     padding: 20px;
     text-align: center;
       display: flex; 
+       font-family: 'Rozha One', serif;
   }
 
 @media (max-width: 600px) {
@@ -86,6 +92,7 @@ body, html {
       display: flex;
       justify-content: center;
       align-items: center;
+         font-family: 'Rozha One', serif;
     }
 
   }
