@@ -24,16 +24,17 @@ html, body {
   .title {
     text-align: center;
     flex-grow: none;
+       font-family: 'Rozha One', serif;
   }
   
   .buttons {
     display: flex;
     gap: 10px;
-      backgroundcolor: cadetblue;
+      backgroundcolor: beige;
   }
   
   .button {
-    background-color: cadetblue;
+    background-color: beige;
     color: #fff;
     padding: 5px 10px;
     text-decoration: none;
@@ -94,6 +95,7 @@ html, body {
     .title {
       text-align: center;
       flex-grow: 1;
+         font-family: 'Rozha One', serif;
     }
     
     .buttons {
