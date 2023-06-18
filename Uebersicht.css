@@ -30,7 +30,8 @@ html, body {
   .buttons {
     display: flex;
     gap: 10px;
-      backgroundcolor: beige;
+      background-color: beige;
+      color: black;
   }
   
   .button {
@@ -64,9 +65,9 @@ html, body {
   
   footer {
     background-color: #333;
-    color: #fff;
+    color: black;
     padding: 10px;
-    text-align: center;
+    text-align: left;
   }
 
 @media screen and (max-width: 600px) {
@@ -101,6 +102,8 @@ html, body {
     .buttons {
       display: flex;
       gap: 10px;
+      background-color: beige;
+      color: black;
     }
     
     .button {
