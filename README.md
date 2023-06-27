@@ -141,5 +141,4 @@ Wir haben uns dazu entschieden, die Arbeit aufzuteilen. Jeder soll mal etwas ver
 ✍️ Vergessen Sie nicht, ein Fazit hinzuzufügen, welches das Test-Ergebnis einordnet.
 
 ## 6 Auswerten
-
-✍️ Fügen Sie hier eine Verknüpfung zu Ihrem Lern-Bericht ein.
+[Lernbericht](https://github.com/salmainf/LA1600-Lernbericht/blob/main/README.md)
